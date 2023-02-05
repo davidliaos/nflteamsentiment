@@ -1,8 +1,7 @@
-# stocksentiment
-Stock Sentiment Analysis
+# Stock Sentiment Analysis
 Using python with libraries tweepy,praw, and textblob
 
-Requirements
+#Requirements
 dotenv, For enviroment variables.
 textblob, Specifically used for sentiment analysis.
 praw, Used to scan information on reddit.
