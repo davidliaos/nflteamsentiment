@@ -5,4 +5,4 @@ Set the credientials as enviroment variables to protect them due to being sensit
 * dotenv, For enviroment variables.
 * textblob, Specifically used for sentiment analysis.
 * tweepy, Used to read through Twitter.
-* Twitter API V2 Elevated Acesss
+* [Twitter API V2 Elevated Acesss](https://developer.twitter.com/en/docs/twitter-api/getting-started/about-twitter-api#item0)
