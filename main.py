@@ -50,7 +50,7 @@ for secondTeamTweet in secondTeamTweets:
     else:
         secondTeamNeutralTweets += 1
 
-#calculate sentiment overall
+#calculate overall sentiment
 firstTeamOverall = firstTeamPositiveTweets - firstTeamNegativeTweets - (firstTeamNeutralTweets/2)
 secondTeamOverall = secondTeamPositiveTweets - secondTeamNegativeTweets - (secondTeamNeutralTweets/2)
 
